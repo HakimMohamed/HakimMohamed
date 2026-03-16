@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hakim 👋
 
-<!--
-**HakimMohamed/HakimMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** · React Native · Node.js · TypeScript · AWS
 
-Here are some ideas to get you started:
+Based in Egypt 🇪🇬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Apps
+
+- 🥗 **[Nutix](https://www.nutix-app.com/en)** — AI nutrition & calorie tracker
+
+## 💼 Worked On
+
+- 🚭 **[Battal](https://battalapp.com/)** — Smoking cessation app *(Architect & Lead Developer)*
+- 🛵 **[Botit](https://www.botitapp.com)** — On-demand delivery platform *(Fullstack Developer)*
+
+---
+
+## 🛠️ Stack
+
+`React Native` `Node.js` `TypeScript` `MongoDB` `AWS` `OpenAI`
+
+---
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/hakim-mohamed-22151b221/) · [Email](mailto:iabdelhakimmohamed@gmail.com)
