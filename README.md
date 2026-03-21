@@ -1,28 +1,28 @@
-# Hi, I'm Hakim 👋
+# Hi, I'm Hakim
 
-**Software Engineer** · React Native · Node.js · TypeScript · AWS
+**Fullstack Engineer** · Building scalable backend services and cloud-native apps.
 
 Based in Egypt 🇪🇬
 
 ---
 
-## 🚀 My Apps
+## Stack
 
-- 🥗 **[Nutix](https://www.nutix-app.com/en)** — AI nutrition & calorie tracker
-
-## 💼 Worked On
-
-- 🚭 **[Battal](https://battalapp.com/)** — Smoking cessation app *(Architect & Lead Developer)*
-- 🛵 **[Botit](https://www.botitapp.com)** — On-demand delivery platform *(Fullstack Developer)*
+`React Native` `Node.js` `TypeScript` `MongoDB` `Redis` `AWS` `Docker` `Nginx`
 
 ---
 
-## 🛠️ Stack
+## My Apps
 
-`React Native` `Node.js` `TypeScript` `MongoDB` `AWS` `OpenAI`
+- **[Nutix](https://www.nutix-app.com/en)** — AI-powered nutrition & calorie tracker *(Solo Developer & Architect)*
+
+## Experience
+
+- **[Battal](https://battalapp.com/)** — Smoking cessation app *(Architect & Lead Developer)*
+- **[Botit](https://www.botitapp.com)** — On-demand delivery platform *(Software Engineer → Mid-Senior)*
 
 ---
 
-## 📫 Connect
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/hakim-mohamed-22151b221/) · [Email](mailto:iabdelhakimmohamed@gmail.com)
