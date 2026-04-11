@@ -16,24 +16,24 @@ Based in Egypt 🇪🇬
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="180" align="center" valign="middle">
+  <img src="assets/nutix.gif" width="160" alt="Nutix demo" />
+</td>
+<td valign="middle">
 
 **[Nutix](https://www.nutix-app.com/en)** — AI-powered nutrition and calorie tracker. Solo project, end-to-end: mobile app, backend, infrastructure. Closed source, live in production.
 
 </td>
-<td width="40%" align="center" valign="top">
-  <img src="assets/nutix.gif" width="220" alt="Nutix demo" />
-</td>
 </tr>
 
 <tr>
-<td width="60%" valign="top">
+<td width="180" align="center" valign="middle">
+  <img src="assets/sdui.gif" width="160" alt="react-native-sdui demo" />
+</td>
+<td valign="middle">
 
 **[react-native-sdui](https://github.com/HakimMohamed/react-native-sdui)** — a server-driven UI experiment for React Native. The backend renders screens from Mustache templates as JSON; the app is a thin renderer over a fixed component catalog, so new screens ship without a rebuild. Expo SDK 55 · Mustache · Zod · Express · TypeScript.
 
-</td>
-<td width="40%" align="center" valign="top">
-  <img src="assets/sdui.gif" width="220" alt="react-native-sdui demo" />
 </td>
 </tr>
 </table>
