@@ -12,9 +12,24 @@ Based in Egypt 🇪🇬
 
 ---
 
-## My Apps
+## Featured
 
-- **[Nutix](https://www.nutix-app.com/en)** — AI-powered nutrition & calorie tracker *(Solo Developer & Architect)*
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**[Nutix](https://www.nutix-app.com/en)** — AI-powered nutrition and calorie tracker. Solo project, end-to-end: mobile app, backend, infrastructure. Closed source, live in production.
+
+**[react-native-sdui](https://github.com/HakimMohamed/react-native-sdui)** — a server-driven UI experiment for React Native. The backend renders screens from Mustache templates as JSON; the app is a thin renderer over a fixed component catalog, so new screens ship without a rebuild. Expo SDK 55 · Mustache · Zod · Express · TypeScript.
+
+</td>
+<td width="40%" align="center" valign="top">
+  <img src="assets/nutix.gif" width="220" alt="Nutix demo" />
+</td>
+</tr>
+</table>
+
+---
 
 ## Experience
 
