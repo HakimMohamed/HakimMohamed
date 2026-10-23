@@ -1,6 +1,6 @@
 # Hi, I'm Hakim 👋
 
-**Head of Development at [Battal](https://www.linkedin.com/company/battalapp/people/)** · Full-stack & mobile engineer · Cairo, Egypt 🇪🇬
+**Senior Engineer at [Battal](https://www.linkedin.com/company/battalapp/people/)** · Full-stack & mobile engineer · Cairo, Egypt 🇪🇬
 
 I've been coding since I was 13: terminal programs in C and C++ first, then games in Unity, then the web, full-stack and mobile. Today I lead development at Battal, and on my own I build and run two apps end to end, from the mobile app to the backend and the AWS servers behind it.
 
@@ -44,7 +44,7 @@ Learn the trick behind every answer, practise it until it's automatic, then race
 
 ## Experience
 
-### Head of Development · [Battal](https://battalapp.com/) (180 For Applications)
+### Senior Engineer · [Battal](https://battalapp.com/) (180 For Applications)
 Part-time · Mar 2025 – Present · Cairo, Egypt · Remote
 
 Battal is an app that helps people quit smoking.
