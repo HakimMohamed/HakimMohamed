@@ -1,4 +1,4 @@
-# Hi, I'm Hakim 👋
+# Hi, I'm Hakim
 
 **Senior Engineer at [Battal](https://www.linkedin.com/company/battalapp/people/)** · Full-stack & mobile engineer · Cairo, Egypt 🇪🇬
 
@@ -8,41 +8,44 @@ I've been coding since I was 13: terminal programs in C and C++ first, then game
 
 ## My apps
 
+<table>
+<tr>
+<td valign="middle">
+
 ### [Leen](https://getleen.app): Calorie Counter & Fasting
 
-Snap a photo, say it or type it, and Leen works out the calories and macros. Built and run solo.
-
-- AI meal logging from a photo, your voice or text, with an A–F health score for every food
-- Intermittent fasting timer, water, weight, workouts and progress photos
-- iPhone, iPad, Android, Apple Watch, widgets and Siri · 20 languages, Arabic right to left included
-- React Native (Expo) · Node.js · MongoDB · Redis · Claude & OpenAI · AWS
-
-<p>
-  <img src="assets/leen/1.jpg" width="200" alt="Leen: log a meal by photo, voice or text" />
-  <img src="assets/leen/2.jpg" width="200" alt="Leen: home with daily calorie and macro goals" />
-</p>
+An AI calorie counter and fasting tracker: snap a photo, say it or type it, and Leen counts the calories.
 
 [App Store](https://apps.apple.com/app/id6754726109) · [Google Play](https://play.google.com/store/apps/details?id=com.hakimmohamed2.nutix) · [getleen.app](https://getleen.app)
 
+</td>
+<td width="200" align="center" valign="middle">
+  <img src="assets/leen/1.jpg" width="180" alt="Leen: home with daily calorie and macro goals" />
+</td>
+</tr>
+<tr>
+<td valign="middle">
+
 ### [Mathlite](https://mathlite.app): Mental Math Trainer
 
-Learn the trick behind every answer, practise it until it's automatic, then race the clock. Built and run solo.
-
-- 58 bite-size lessons from addition to fractions, each one a trick you can use for life
-- 60-second sprints and spaced review that brings each trick back before you forget it
-- iPhone, iPad and Android · 14 languages, Arabic right to left included
-- React Native (Expo) · Node.js · MongoDB · AWS
-
-<p>
-  <img src="assets/mathlite/1.jpg" width="200" alt="Mathlite: learn the trick" />
-  <img src="assets/mathlite/2.jpg" width="200" alt="Mathlite: 60-second sprint" />
-</p>
+A mental math trainer that teaches the trick behind every answer, then has you race the clock.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.hakimmohamed.mathlite) · [mathlite.app](https://mathlite.app)
+
+</td>
+<td width="200" align="center" valign="middle">
+  <img src="assets/mathlite/1.jpg" width="180" alt="Mathlite: learn the trick" />
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
+
+<table>
+<tr>
+<td valign="middle">
 
 ### Senior Engineer · [Battal](https://battalapp.com/) (180 For Applications)
 Part-time · Mar 2025 – Present · Cairo, Egypt · Remote
@@ -51,6 +54,14 @@ Battal is an app that helps people quit smoking.
 
 - Lead application development end to end, owning technical direction and delivery across mobile and backend
 - Architect and ship production features with Flutter and Node.js
+
+</td>
+<td width="200" align="center" valign="middle">
+  <img src="assets/work/battal.jpg" width="180" alt="Battal: the welcome screen of the quit-smoking program" />
+</td>
+</tr>
+<tr>
+<td valign="middle">
 
 ### [Botit](https://www.botitapp.com) · On-demand delivery platform
 Full-time · 2 yrs 5 mos · Cairo, Egypt · Hybrid
@@ -62,6 +73,13 @@ Full-time · 2 yrs 5 mos · Cairo, Egypt · Hybrid
 **Junior Back End Developer** · Jul 2023 – Mar 2024
 - Helped build and maintain the monolithic backend with Node.js, TypeScript and Express
 - Integrated webhooks that keep external data sources in sync with real-time updates
+
+</td>
+<td width="200" align="center" valign="middle">
+  <img src="assets/work/botit.jpg" width="200" alt="Botit: for the first time, everything, now" />
+</td>
+</tr>
+</table>
 
 ### Where it started · Tower Jump
 A game I made in Unity and published on Google Play (no longer available).
