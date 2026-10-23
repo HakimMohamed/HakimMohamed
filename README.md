@@ -64,13 +64,13 @@ Battal is an app that helps people quit smoking.
 <td valign="middle">
 
 ### [Botit](https://www.botitapp.com) · On-demand delivery platform
-Full-time · 2 yrs 5 mos · Cairo, Egypt · Hybrid
+Full-time · Jul 2023 – Nov 2025 · Cairo, Egypt · Hybrid
 
-**Mid-Senior Full Stack Developer** · Mar 2024 – Nov 2025
+**Mid-Senior Full Stack Developer** · Mar 2024 – Nov 2025 (1 yr 9 mos)
 - Refactored and scaled the monolithic codebase to handle higher traffic and modular features
 - Architected an event-driven communication system with RabbitMQ for asynchronous processing
 
-**Junior Back End Developer** · Jul 2023 – Mar 2024
+**Junior Back End Developer** · Jul 2023 – Mar 2024 (9 mos)
 - Helped build and maintain the monolithic backend with Node.js, TypeScript and Express
 - Integrated webhooks that keep external data sources in sync with real-time updates
 
